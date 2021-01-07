@@ -11,7 +11,7 @@ module.exports = {
       return [
         {
           source: '/',
-          destination: `https://scrapbook.hackclub.com/${process.env.username}/`,
+          destination: `https://scrapbook.hackclub.com/pranavnt/`,
         }
       ]
     },
