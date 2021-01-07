@@ -3,7 +3,7 @@ module.exports = {
       return [
         {
           source: '/',
-          destination: `https://scrapbook.hackclub.com/rishi/`,
+          destination: `https://scrapbook.hackclub.com/pranavnt/`,
         }
       ]
     },
